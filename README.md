@@ -1,6 +1,6 @@
 # SE410-Poject
 
-SE 410 Project Repository
+Project Repository
 
 Project By: Dylan Zeller, Harsh Sharma, and Hriday Sharma
 
